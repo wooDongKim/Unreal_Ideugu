@@ -19,7 +19,21 @@
 				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/IMC_MouseLook.uasset",
 				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Touch/UI_Thumbstick.uasset",
 				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Touch/UI_TouchSimple.uasset",
-				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABCharacterPlayer.uasset"
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABCharacterPlayer.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/CharacterControl/ABC_Quater.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/CharacterControl/ABC_Shoulder.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Default.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ShoulderMove.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ShoulderLook.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_MouseLook.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ShoulderMouseLook.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Shoulder.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Quater.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_Move.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_MouseLook.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_QuaterMove.uasset"
 			]
 		}
 	]
