@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Maps/Step2.umap",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Maps/Step3.umap",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Blueprint/BP_Fountain.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Environment/Props/SM_Plains_Fountain_02.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/IMC_Default.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Touch/BPI_TouchInterface.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Jump.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_MouseLook.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Move.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/IMC_MouseLook.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Touch/UI_Thumbstick.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Input/Touch/UI_TouchSimple.uasset",
+				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABCharacterPlayer.uasset"
+			]
+		}
+	]
+}
