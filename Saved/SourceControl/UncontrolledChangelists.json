@@ -22,18 +22,25 @@
 				"C:/Users/SSimg/Desktop/Unreal Projects/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABCharacterPlayer.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/CharacterControl/ABC_Quater.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/CharacterControl/ABC_Shoulder.uasset",
-				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Default.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ShoulderMove.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ShoulderLook.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_MouseLook.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ShoulderMouseLook.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Shoulder.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Quater.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_QuaterMove.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Animation/ABP_ABCharacter.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Animation/BS_IdleWalkRun.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Animation/WarriorWalkInPlace.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Animation/AM_ComboAttack.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_Attack.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Blueprint/BP_ABCharacterPlayer.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/CharacterAction/ABA_ComboAttack.uasset",
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/IMC_Default.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_Move.uasset",
 				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_MouseLook.uasset",
-				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
-				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset",
-				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_QuaterMove.uasset"
+				"D:/NewSourceTree/Unreal_Ideugu/Content/ArenaBattle/Input/Actions/IA_Look.uasset"
 			]
 		}
 	]
